@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @oleg-darkdev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @oleg_darkdev
 
-<!---
-oleg-darkdev/oleg-darkdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m:
+ - 🛠 Engineer
+ - 📟 IT enthusiast
+ - 🎲 The boardgames creator
+ - 👍 Supporter open-source community
+ - 🤖 Founder of [44Hackerspace](https://linktr.ee/44hackerspace) and [DarkDev project](). 
+ - 🏴 Social Activist
+ 
+💙 Comfortable in turquoise model of the organizations or organizations with a flat structure.
+👀 I’m interested in development of educational boardgames and applications for them.
+🇷🇺 stop war in Ukraine 🇺🇦 #nowar 
+
+[More](https://linktr.ee/darkdev) 
