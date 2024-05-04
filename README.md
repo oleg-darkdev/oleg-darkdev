@@ -5,7 +5,7 @@
  - 😎 Certified kanban master
  - ♟️ Сhampion of Belarus in chess
  - 👍 Supporter open-source community
- - 🤖 Founder of [44Hackerspace](https://linktr.ee/44hackerspace) and [DarkDev foundation]().
+ - 🤖 Founder of [44Hackerspace](https://linktr.ee/44hackerspace) and [DarkDev foundation](https://darkdev-progect.vercel.app/).
 
 👀 I’m interested in development of educational boardgames and applications for them.
 
