@@ -5,7 +5,7 @@
  - 😎 Certified kanban master
  - ♟️ Сhampion of Belarus in chess
  - 👍 Supporter open-source community
- - 🤖 Founder of and [44Games]([https://44games.vercel.app/), [DarkDev foundation](https://darkdev-foundation.vercel.app/), [44Hackerspace](https://44fablab.vercel.app/).
+ - 🤖 Founder of and [44games](https://44games.vercel.app/), [DarkDev foundation](https://darkdev-foundation.vercel.app/), [44Hackerspace](https://44fablab.vercel.app/).
 
 👀 AI enthusiast.
 
