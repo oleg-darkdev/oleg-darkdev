@@ -27,7 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleg-darkdev&show_icons=true&theme=neon)](https://oleg-darkdev.vercel.app/)
-
-
+<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleg-darkdev&show_icons=true&theme=neon&layout=compact)](https://oleg-darkdev.vercel.app/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleg-darkdev&hide=contribs,prs&show_icons=true&theme=neon)](https://github.com/oleg-darkdev/oleg-darkdev/)
+</div>
