@@ -31,5 +31,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleg-darkdev&show_icons=true&theme=neon&layout=compact)](https://oleg-darkdev.vercel.app/)
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=oleg-darkdev&hide=contribs,prs&show_icons=true&theme=neon&rank_icon=github)](https://github.com/oleg-darkdev/oleg-darkdev/)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=oleg-darkdev&hide=contribs,prs&show_icons=true&theme=neon&include_all_commits=true&rank_icon=github)](https://github.com/oleg-darkdev/oleg-darkdev/)
 
