@@ -8,7 +8,7 @@
  - 📟 Front-end developer 
  - 🎲 Boardgames creator
  - 😎 Certified kanban master
- - ♟️ Сhampion of Belarus in chess
+ - ♟ Сhampion of Belarus in chess
  - 👍 Supporter open-source community
  - 🤖 Founder of and [44games](https://44games.vercel.app/), [DarkDev foundation](https://darkdev-foundation.vercel.app/), [44Hackerspace](https://44fablab.vercel.app/).
  - 👀 AI enthusiast.
@@ -29,4 +29,6 @@
 
 <div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleg-darkdev&show_icons=true&theme=neon&layout=compact)](https://oleg-darkdev.vercel.app/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleg-darkdev&hide=contribs,prs&show_icons=true&theme=neon&rank_icon=github)](https://github.com/oleg-darkdev/oleg-darkdev/)
 </div>
