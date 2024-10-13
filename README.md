@@ -13,6 +13,7 @@
  - 🤖 Founder of and [44games](https://44games.vercel.app/), [DarkDev foundation](https://darkdev-foundation.vercel.app/), [44Hackerspace](https://44fablab.vercel.app/).
  - 👀 AI enthusiast.
 
+[![](https://visitcount.itsvg.in/api?id=oleg-darkdev&label=Profile%20Views&color=11&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
 ---
 
