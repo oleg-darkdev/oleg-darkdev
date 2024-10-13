@@ -1,3 +1,7 @@
+
+<img src="https://raw.githubusercontent.com/oleg-darkdev/oleg-darkdev/refs/heads/main/darkdev_promo.gif" alt="banner that says Oleg_DarKDev - software engineer, boardgames creator, social activist, organizer of chess tournaments and educational workshops using gamification.">
+
+
 👋 Hi, I’m @oleg_darkdev - engineer / javascript developer with fokus on VueJs / SvelteJs. 
 <p align="start">
  <a href="https://github.com/oleg-darkdev" target="blank"><img align="center" src="https://cdn.simpleicons.org/github/black/white" alt="oleg_DarkDev on github" height="30" width="40" /></a>
