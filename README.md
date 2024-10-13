@@ -28,6 +28,6 @@
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleg-darkdev)](https://oleg-darkdev.vercel.app/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleg-darkdev&show_icons=true&theme=neon)](https://oleg-darkdev.vercel.app/)
 
 
