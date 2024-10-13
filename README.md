@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/oleg-darkdev/oleg-darkdev/refs/heads/main/darkdev_promo_banner.gif" alt="banner that says Oleg_DarKDev - software engineer, boardgames creator, social activist, organizer of chess tournaments and educational workshops using gamification.">
+<img src="https://raw.githubusercontent.com/oleg-darkdev/oleg-darkdev/refs/heads/main/darkdev_promo_banner_crop.gif" alt="banner that says Oleg_DarKDev - software engineer, boardgames creator, social activist, organizer of chess tournaments and educational workshops using gamification.">
 
 
 👋 Hi, I’m @oleg_darkdev - engineer / javascript developer with fokus on VueJs / SvelteJs. 
