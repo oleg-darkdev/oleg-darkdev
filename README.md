@@ -29,5 +29,4 @@
 
 <div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleg-darkdev&show_icons=true&theme=neon&layout=compact)](https://oleg-darkdev.vercel.app/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleg-darkdev&hide=contribs,prs&show_icons=true&theme=neon)](https://github.com/oleg-darkdev/oleg-darkdev/)
 </div>
