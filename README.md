@@ -8,6 +8,7 @@
  <a href="https://www.linkedin.com/in/oleg-darkdev" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/black/white" alt="oleg_DarkDev on linkedin" height="30" width="40" /></a>
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=oleg-darkdev&label=Profile%20Views&color=11&icon=6&pretty=false)](https://www.linkedin.com/in/oleg-darkdev)
  - 🛠 Engineer 
  - 📟 Front-end developer 
  - 🎲 Boardgames creator
@@ -17,7 +18,7 @@
  - 🤖 Founder of and [44games](https://44games.vercel.app/), [DarkDev foundation](https://darkdev-foundation.vercel.app/), [44Hackerspace](https://44fablab.vercel.app/).
  - 👀 AI enthusiast.
 
-[![](https://visitcount.itsvg.in/api?id=oleg-darkdev&label=Profile%20Views&color=11&icon=6&pretty=false)](https://www.linkedin.com/in/oleg-darkdev)
+
 
 ---
 
