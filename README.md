@@ -9,23 +9,23 @@
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=oleg-darkdev&label=Profile%20Views&color=11&icon=6&pretty=false)](https://www.linkedin.com/in/oleg-darkdev)
- - 🛠 Engineer 
- - 📟 Front-end developer 
- - 🎲 Boardgames creator
- - 😎 Certified kanban master
- - ♟ Сhampion of Belarus in chess
- - 👍 Supporter open-source community
- - 🤖 Founder of and [44games](https://44games.vercel.app/), [DarkDev foundation](https://darkdev-foundation.vercel.app/), [44Hackerspace](https://44fablab.vercel.app/).
+ - 🏁 First commit to the github repository in 2018
+ - 📟 Product Web Engineer, [my portfolio](https://oleg-darkdev.vercel.app/) and [my stack](#stack) 
+ - 🎲 Boardgames creator, [20+ gamification projects](#boardgames)
+ - 😎 Certified [Kanban University](https://kanban.university/) & [MBA](https://www.mba.uni.lodz.pl/)
+ - ♟ Сhampion of Belarus in chess, 9 place in the European Union 
+ - 🤖 Founder of [DarkDev foundation](https://darkdev-foundation.vercel.app/)
  - 👀 AI enthusiast.
 
 
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Tech stack:
 
-<div>
-  
+<a name="stack"></a>
+
+<div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"  title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -43,6 +43,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash script" alt="Bash script" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux OS" alt="Linux OS" width="40" height="40"/>&nbsp;
 </div>
+
+
+<a name="boardgames"></a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleg-darkdev&show_icons=true&theme=neon&layout=compact)](https://oleg-darkdev.vercel.app/)
