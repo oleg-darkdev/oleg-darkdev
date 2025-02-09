@@ -12,7 +12,7 @@
 [![](https://visitcount.itsvg.in/api?id=oleg-darkdev&label=Profile%20Views&color=11&icon=6&pretty=false)](https://www.linkedin.com/in/oleg-darkdev)
  - 🏁 First commit into the github repository in 2018
  - 📟 Product Web Engineer, [my portfolio](https://oleg-darkdev.vercel.app/) and [my stack](#stack) 
- - 🎲 Boardgames creator, [20+ gamification projects](#boardgames)
+ - 🎲 Boardgames creator, [20+ gamification projects](https://oleg-darkdev.vercel.app/#boardgames)
  - 😎 Certified [Kanban University](https://kanban.university/) & [MBA](https://www.mba.uni.lodz.pl/)
  - ♟ Сhampion of Belarus in chess, 9 place in the European Union 
  - 🤖 Founder of [DarkDev foundation](https://darkdev-foundation.vercel.app/)
